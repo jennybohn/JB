@@ -1,0 +1,44 @@
+body{
+	font-family:Verdana;
+	font-size:12px;
+}
+header{
+	color:#FF5F00;
+	background-color:#AFAFAF;
+	text-align:center;
+}
+nav{
+	margin-top:50px;
+	margin-bottom:50px;
+}
+nav a{
+	border:2px solid;
+	border-color:#AFAFAF;
+	border-radius:5px;
+	font-weight:bold;
+	background-color:#0082D1;
+	color:white;
+}
+a:hover{
+	color:#FF5F00;
+	background-color:#AFAFAF;
+}
+table{
+	margin-left:10%;
+	margin-right:10%;
+}
+th{
+	color:white;
+	background-color:#76B900;
+	border:1px solid black;
+}
+td{
+	border:1px solid black;
+}
+footer{
+	background-color:#FF5F00;
+	color:black;
+	margin-top:20px;
+	margin-bottom 20px;
+	text-align:center;
+}
